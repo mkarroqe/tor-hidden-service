@@ -7,4 +7,5 @@ Assignment for Computer Security class about Tor.
 - took it off
 - a blast
 
+# *The proof:*
 ![tor](https://github.com/mkarroqe/tor-hidden-service/blob/master/ezgif.com-video-to-gif.gif)
